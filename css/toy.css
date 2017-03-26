@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald');
+
+body {
+	background: linear-gradient(
+      rgba(25, 25, 250, 0.45), 
+      rgba(255, 255, 255, 0.45)
+    ), url("../images/pattern.png") !important;
+	background-repeat: repeat;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+h1, h3 {
+	text-align: center !important;
+	font-family: 'Oswald', sans-serif !important;
+}
+
+img {
+	max-width: 100% !important;
+}
+
+.container {
+	margin-top: 60px !important;
+	font-size: 1.5em;
+}
+
+#order {
+	margin: 20px 33% !important;
+	width: 33%
+}
